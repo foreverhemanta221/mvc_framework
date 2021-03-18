@@ -1,0 +1,15 @@
+{
+    "name": "animation/php_oop",
+    "authors": [
+        {
+            "name": "hemanta rijal",
+            "email": "foreverhemanta221@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
